@@ -1,0 +1,15 @@
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\IPacketizer.exe.config
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\IPacketizer.exe
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\IPacketizer.pdb
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\IPacketizer.xml
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.vbprojResolveAssemblyReference.cache
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.inicio.resources
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.Resources.resources
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.vbproj.GenerateResource.Cache
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.exe
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.xml
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.pdb
+c:\users\ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\obj\Debug\IPacketizer.config.resources
+C:\Users\Ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\System.Net.Http.dll
+C:\Users\Ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\System.Net.Http.xml
+C:\Users\Ianick\documents\visual studio 2015\Projects\IPacketizer\IPacketizer\bin\Debug\es\System.Net.Http.resources.dll
